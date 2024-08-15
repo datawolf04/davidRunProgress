@@ -20,14 +20,14 @@ getCCSeasonData = function(year,init){
                        col_types = colTypes)
   seasonDat = seasonDat |> clean_names() |>
     mutate(
-      result = lubridate::hms(result),
+      result = lubridate::ms(result),
       year = year(date)
     )
   return(seasonDat)
 }
 
 calcKmPace = function(dat){
-  distance = as.numeric(dat$distance_km)
+  distance = as.numeric(as.character(dat$distance_km))
   time = period_to_seconds(dat$result)
   pace = time/distance
   return(pace)
@@ -44,7 +44,7 @@ project5kTimes = function(year,init){
     mutate(
       kmPace = calcKmPace(seasonDat),
       miPace = calcMilePace(seasonDat),
-      result = ifelse(distance_km==5, period_to_seconds(result), kmPace*5),
+      result = ifelse(as.numeric(distance_km)==5, result, kmPace*5),
       projection = distance_km != 5
     ) 
   return(projectedDat)
@@ -56,7 +56,7 @@ project3kTimes = function(year,init){
     mutate(
       kmPace = calcKmPace(seasonDat),
       miPace = calcMilePace(seasonDat),
-      result = ifelse(distance_km==3, period_to_seconds(result), kmPace*3),
+      result = ifelse(as.numeric(distance_km)==3, result, kmPace*3),
       projection = distance_km != 3
     ) 
   return(projectedDat)
