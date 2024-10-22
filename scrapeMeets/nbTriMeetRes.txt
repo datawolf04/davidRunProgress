@@ -1,0 +1,65 @@
+Mens 5,000 Meters Varsity Team Scores
+=========================================================
+  Pl Team                                          Points
+=========================================================
+  1  New Bern                                          43 
+  2  D.H. Conley                                       53 
+  3  South Central                                     56 
+  4  J.H. Rose                                         86 
+
+
+Mens 5,000 Meters Varsity Results
+====================================================================================
+  Pl Athlete                   Yr Team                                          Time
+====================================================================================
+   1 Christian Villasenor      12 D.H. Conley                                  16:00 
+   2 Matthew Winstead          11 South Central                                16:34 
+   3 Jake Adamski              11 South Central                                16:48 
+   4 Spencer Rundell           12 D.H. Conley                                  16:58 
+   5 Gray Sweatman             11 New Bern                                     17:03 
+   6 Helms Kulas                9 J.H. Rose                                    17:54 
+   7 Ayden Thornton            12 New Bern                                     18:08 
+   8 Jackson Wood              11 South Central                                18:15 
+   9 Jackson Grudzinskas       10 New Bern                                     18:18 
+  10 Oliver Canady             10 New Bern                                     18:38 
+  11 Jude Woodmansee            9 J.H. Rose                                    18:39 
+  12 Henry Rhodes               - New Bern                                     18:42 
+  13 John Saenz                12 New Bern                                     18:43 
+  14 Maddox Warwick            12 New Bern                                     18:47 
+  15 Evan Jabs                 11 D.H. Conley                                  18:55 
+  16 Mitchell Wheelis          12 New Bern                                     19:20 
+  17 Carson Anderson            - New Bern                                     19:37 
+  18 Aiden Osburn              10 D.H. Conley                                  19:38 
+  19 Elijah Oakley-Nelson       - New Bern                                     19:41 
+  20 Jonathan Mocek             - New Bern                                     19:42 
+  21 Seth Collier               9 D.H. Conley                                  19:51 
+  22 Griffith Brimhall         11 D.H. Conley                                  20:04 
+  23 Bryson Dilday              9 D.H. Conley                                  20:08 
+  24 Landen Stalker             - New Bern                                     20:23 
+  25 Gunner Johnson             - D.H. Conley                                  20:32 
+  26 Ryan Davis                 - New Bern                                     20:36 
+  27 Stone Billings            12 J.H. Rose                                 20:52.30 
+  28 Ian Jones                 10 South Central                             20:52.90 
+  29 Issac DeWitt              10 South Central                                20:56 
+  30 Noah Windley              10 D.H. Conley                                  20:57 
+  31 Isaac Callis              11 J.H. Rose                                    21:04 
+  32 Alex Moore                 - South Central                                21:20 
+  33 Jamarion Henderson         - South Central                                21:33 
+  34 Grant Holt                12 D.H. Conley                                  21:53 
+  35 Oliver Billings            9 J.H. Rose                                    22:08 
+  36 Jayce Carden              11 D.H. Conley                                  22:13 
+  37 Tylen Ward                 - D.H. Conley                                  22:17 
+  38 Juelez Butts               - South Central                                22:18 
+  39 Jacob Breazeale           10 J.H. Rose                                    22:20 
+  40 Andrew Below              12 D.H. Conley                                  22:55 
+  41 Jamie Slagle               - New Bern                                  23:06.60 
+  42 Jonathan Moss             10 South Central                             23:06.90 
+  43 David Wolf                 - D.H. Conley                                  23:20 
+  44 Caleb Gliniak             11 South Central                                23:27 
+  45 Jamison Knowles            - D.H. Conley                                  23:47 
+  46 Anderson Bagley 3k         9 J.H. Rose                                    23:48 
+  47 Bradley Ross               - New Bern                                     24:59 
+  48 Dorian Weaver              - South Central                                25:01 
+  49 Shane Balon                - New Bern                                     25:03 
+  50 Lindon Cox                 - South Central                                25:58 
+  51 Cyrus Freeman              9 J.H. Rose                                    26:28

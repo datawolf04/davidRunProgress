@@ -74,11 +74,11 @@ freshDJW = project5kTimes(2024,"DJW")
 
 ## Need to mutate the year so that years overlap on the plot.
 
-sixthWFW = project3kTimes(2024,"WFW") 
+# sixthWFW = project3kTimes(2024,"WFW") 
 
 
 djwCCPlot = makeCCTimePlot(freshDJW,"DJW")
 ggsave('davidCCPlot.png',djwCCPlot)
 
-wfwCCPlot = makeCCTimePlot(sixthWFW,"WFW")
-ggsave('williamCCplot.png',wfwCCPlot)
+# wfwCCPlot = makeCCTimePlot(sixthWFW,"WFW")
+# ggsave('williamCCplot.png',wfwCCPlot)
